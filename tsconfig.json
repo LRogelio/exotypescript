@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "pretty": true,
+    "outDir": "./scripts/helper"
+  },
+  "files": [
+    "scripts/helper/date.ts",
+    "scripts/helper/priority.ts",
+    "scripts/helper/task.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
